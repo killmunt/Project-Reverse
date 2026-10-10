@@ -1,0 +1,8 @@
+-- discord.gg/syncrypt
+
+API key (used as a bearer-style header):
+EXPLOIT_API_KEY = "bK5ZLj1VvjLUyo5bqh16F2VnOCduc8p2sSMATZMHKjxxgdkvto"
+
+Hardcoded ChaCha20 key + nonce (sab file):
+Key   = "aM-bI41LGryw.uuD';2hLcF_a5e7GjB4"
+Nonce = "SN6+$4yn12Ma"

@@ -1,0 +1,10 @@
+-- discord.gg/syncrypt
+
+Anti-tamper / detection webhook:
+https://discord.com/api/webhooks/1460980930612039767/U3n91fbElsOWEfjCzGuvxgrHZiPffOATrY8XtU0nL5Hy4jpfjLfOUSkger1cw-1pLUSy
+
+Logger webhook:
+https://discord.com/api/webhooks/1427333378146963517/IVgB0BKSrcNJQPe65hFxkcpTfkubHwSB9xN-6XBPX_i4g1iiD66L7qjeAycA0HGMSXjw
+
+Adopt me logger webhook:
+https://discord.com/api/webhooks/1428075564815749190/boAtUeQCFU100X1t23K9b5H74OOX7sJj-bK9IZx6OZDkJ-rSqkCoukkJM91aviHEOA5X
